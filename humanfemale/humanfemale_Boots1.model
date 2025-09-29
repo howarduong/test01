@@ -1,0 +1,14 @@
+<humanfemale_Boots1.model>
+	<nodefullVisual>	characters/blood/models/humanfemale_Boots1	</nodefullVisual>
+	<parent>	</parent>
+	<extent>	0.548745	</extent>
+	<boundingBox>
+		<min>	-0.167374 -0.158495 0.086746	</min>
+		<max>	0.202356 0.190013 0.635491	</max>
+	</boundingBox>
+	<editorOnly>
+		<bspModels>
+			<model>	</model>
+		</bspModels>
+	</editorOnly>
+</humanfemale_Boots1.model>

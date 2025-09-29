@@ -1,0 +1,21 @@
+<humanfemale_Boots1.visual>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	root	</node>
+		<geometry>
+			<vertices>	characters/blood/models/humanfemale_Boots1.primitives	</vertices>
+			<primitive>	triangles	</primitive>
+			<primitiveGroup>
+				<material>	materials/humanfemale_Boots1.mfm	</material>
+				<startIndex>	0	</startIndex>
+				<endIndex>	390	</endIndex>
+				<startVertex>	0	</startVertex>
+				<endVertex>	390	</endVertex>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.167374 -0.158495 0.086746	</min>
+		<max>	0.202356 0.190013 0.635491	</max>
+	</boundingBox>
+</humanfemale_Boots1.visual>

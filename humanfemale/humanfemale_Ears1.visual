@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_Ears1.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_Ears1.mfm</material><startIndex>0</startIndex><endIndex>18</endIndex><startVertex>0</startVertex><endVertex>18</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>-0.030667 -0.091079 1.717854</min><max>0.008625 0.054954 1.784439</max></boundingBox></root>

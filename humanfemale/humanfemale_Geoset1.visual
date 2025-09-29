@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_Geoset1.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_Geoset1.mfm</material><startIndex>0</startIndex><endIndex>12</endIndex><startVertex>0</startVertex><endVertex>12</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>0.077922 -0.068366 1.764891</min><max>0.091318 0.029911 1.784204</max></boundingBox></root>

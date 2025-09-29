@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_Gloves1.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_Gloves1.mfm</material><startIndex>0</startIndex><endIndex>216</endIndex><startVertex>0</startVertex><endVertex>216</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>-0.208096 -0.318280 0.992310</min><max>-0.002453 0.305409 1.289211</max></boundingBox></root>

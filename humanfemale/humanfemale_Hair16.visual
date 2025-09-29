@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_Hair16.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_Hair16.mfm</material><startIndex>0</startIndex><endIndex>561</endIndex><startVertex>0</startVertex><endVertex>561</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>-0.146526 -0.120938 1.628124</min><max>0.109861 0.084912 1.919405</max></boundingBox></root>

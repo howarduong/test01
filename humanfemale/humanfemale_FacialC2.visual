@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_FacialC2.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_FacialC2.mfm</material><startIndex>0</startIndex><endIndex>96</endIndex><startVertex>0</startVertex><endVertex>96</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>-0.021765 -0.097759 1.696317</min><max>0.010515 0.061098 1.729418</max></boundingBox></root>

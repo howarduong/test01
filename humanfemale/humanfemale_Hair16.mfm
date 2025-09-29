@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><fx>shaders/std_effects.fx</fx><technique>default</technique><textures><diffuse>data-6.png</diffuse></textures><parameters /></root>

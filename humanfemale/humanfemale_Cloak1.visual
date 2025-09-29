@@ -1,0 +1,21 @@
+<humanfemale_Cloak1.visual>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	root	</node>
+		<geometry>
+			<vertices>	characters/blood/models/humanfemale_Cloak1.primitives	</vertices>
+			<primitive>	triangles	</primitive>
+			<primitiveGroup>
+				<material>	materials/humanfemale_Cloak1.mfm	</material>
+				<startIndex>	0	</startIndex>
+				<endIndex>	42	</endIndex>
+				<startVertex>	0	</startVertex>
+				<endVertex>	42	</endVertex>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.113115 -0.136159 1.420944	</min>
+		<max>	-0.012238 0.101442 1.637029	</max>
+	</boundingBox>
+</humanfemale_Cloak1.visual>

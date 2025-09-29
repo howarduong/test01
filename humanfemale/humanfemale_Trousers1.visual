@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>root</node><geometry><vertices>models/humanfemale_Trousers1.primitives</vertices><primitive>triangles</primitive><primitiveGroup><material>materials/humanfemale_Trousers1.mfm</material><startIndex>0</startIndex><endIndex>414</endIndex><startVertex>0</startVertex><endVertex>414</endVertex></primitiveGroup></geometry></renderSet><boundingBox><min>-0.122845 -0.218279 0.548439</min><max>0.208421 0.185034 1.140659</max></boundingBox></root>
